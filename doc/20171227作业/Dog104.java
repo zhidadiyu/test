@@ -1,3 +1,11 @@
+/**
+ * Description: <br/>
+ * Date: 2017年12月27日 下午6:07:43 <br/>
+ * 
+ * @author Zhengheyang
+ * @version
+ * @see
+ */
 public class Dog104{
 	public static void main(String[] args) {
 		int[] ary = new int[]{5,54,23,-51,22,51};

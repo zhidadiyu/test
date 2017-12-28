@@ -12,6 +12,6 @@ public static void main(String[] args) {
 	//静态同类型可以直接输出
 	System.out.println(Attribute.name);
 	Attribute ai = new Attribute();
-	ai.getAge();
+	ai.getAge(); 
 }
 }

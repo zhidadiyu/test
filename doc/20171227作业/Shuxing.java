@@ -1,3 +1,11 @@
+/**
+ * Description: <br/>
+ * Date: 2017年12月27日 下午6:07:43 <br/>
+ * 
+ * @author Zhengheyang
+ * @version
+ * @see
+ */
 public class Shuxing{
 private String name = "Zheng";
 private int age = 11;
