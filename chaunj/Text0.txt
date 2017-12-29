@@ -1,0 +1,65 @@
+double
+string
+character
+integr
+scanner
+score
+name
+boolean
+true
+Inheritance
+Extend
+Super
+Override
+Abstract
+-------------------
+双精度 - double                 double
+字符串 - string                 string
+字符   - character              character
+整数   - integr
+键盘输入 - scanner
+分数   - score
+名称   - name
+布尔   - Boolean
+真     - true
+继承   - Inheritence
+扩展   - Extend
+父类   - Super
+覆盖   - Override
+抽象的 - Abstract
+
+
+
+
+
+
+修改CMD改成OSK 在把OSK修改成OSK1
+net user/admin 123
+直接更改用户的密码
+
+
+
+环境变量可以新添加一个JAVA_HOME
+
+然后添加进PART:/%JAVA_HOME%\bin
+
+----------------------------------
+set 临时设置环境变量
+2017/12/28日
+密码Guojin#@!321
+
+当前IP地址:	10.10.0.113
+登录时间:	2017-12-28 21:01:09 ?<5分25秒>
+您的帐号名:	w166304??<421002199102070556徐超>
+帐号使用期限:	2017-11-16 00:00:00 至 2018-05-16 23:59:59
+本次拨号使用时间:	至?2018-05-16 23:59:59?? <剩余139天2小时53分25秒>
+套餐类型:	M10
+您的电话号码:	15927342060
+您的联系地址:	166号304
+
+
+
+
+
+
+
