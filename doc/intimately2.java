@@ -1,3 +1,6 @@
+/**
+ * 
+ */
 public class intimately2{
 	public static void main(String[] args) {
 		

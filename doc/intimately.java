@@ -1,3 +1,7 @@
+/**
+ * 
+ * 
+ */
 public class intimately{
 	int age;
 	String name;
