@@ -1,4 +1,7 @@
+package Z2018_1_3.Exercise;
+
 /**
+
  * Project Name:test
  * File Name:Test0000.java
  * Package Name:test
@@ -6,7 +9,7 @@
  * Copyright (c) 2018, bluemobi All Rights Reserved.
  */
 
-package test;
+//package test;
 
 import java.util.Scanner;
 
